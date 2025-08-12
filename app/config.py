@@ -79,16 +79,16 @@ class Config:
     
     @classmethod
     def get_persona_buttons(cls) -> List[str]:
-        """Возвращает список кнопок для выбора персоны"""
-        return ["Деловой режим", "Белла", "Бэн"]
+        """Возвращает список кнопок для выбора персоны (EN)"""
+        return ["Business mode", "Bella", "Ben"]
     
     @classmethod
     def get_persona_type(cls, button_text: str) -> PersonaType:
         """Преобразует текст кнопки в тип персоны"""
         mapping = {
-            "Деловой режим": PersonaType.BUSINESS,
-            "Белла": PersonaType.BELLA,
-            "Бэн": PersonaType.BEN,
+            "Business mode": PersonaType.BUSINESS,
+            "Bella": PersonaType.BELLA,
+            "Ben": PersonaType.BEN,
         }
         return mapping.get(button_text, PersonaType.BUSINESS)
 

@@ -150,9 +150,9 @@ class TelegramHandlers:
             
             # Простое подтверждение смены режима (без вызова DeepSeek API)
             confirmation_messages = {
-                PersonaType.BUSINESS: "✅ Переключен на деловой режим. Готов предоставить профессиональную техническую поддержку.",
-                PersonaType.BELLA: "✅ Привет! Теперь с тобой общается Белла 😊 Готова помочь с любыми вопросами!",
-                PersonaType.BEN: "✅ Йо! Бэн на связи 👋 Давай решать твои вопросы вместе!"
+                PersonaType.BUSINESS: "Switched to Business mode. I will provide professional technical support.",
+                PersonaType.BELLA: "Hi! Bella is now with you 😊 Ready to help with any questions!",
+                PersonaType.BEN: "Yo! Ben here 👋 Let's tackle your questions together!"
             }
             
             confirmation_text = confirmation_messages.get(new_persona, confirmation_messages[PersonaType.BUSINESS])
