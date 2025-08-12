@@ -1,0 +1,59 @@
+version: '3.8'
+
+services:
+  # Telegram Bot
+  telegram-bot:
+    build: 
+      context: .
+      dockerfile: Dockerfile
+    container_name: casino_telegram_bot
+    restart: unless-stopped
+    environment:
+      - TELEGRAM_BOT_TOKEN=${TELEGRAM_BOT_TOKEN}
+      - DATABASE_PATH=/app/data/bot.db
+      - REDIS_URL=redis://redis:6379/0
+      - DEEPSEEK_API_KEY=${DEEPSEEK_API_KEY}
+      - DEEPSEEK_API_BASE=${DEEPSEEK_API_BASE:-https://api.deepseek.com}
+      - OPENAI_API_KEY=${OPENAI_API_KEY}
+      - PROMPTS_DIR=/app/prompts
+      - KNOWLEDGE_BASE_DIR=/app/kb
+      - CHROMA_DB_PATH=/app/data/chroma
+    volumes:
+      - ./data:/app/data
+      - ./kb:/app/kb
+      - ./prompts:/app/prompts
+    depends_on:
+      - redis
+    networks:
+      - bot_network
+    logging:
+      driver: json-file
+      options:
+        max-size: "10m"
+        max-file: "3"
+
+  # Redis для кеширования контекста (будет использоваться позже)
+  redis:
+    image: redis:7-alpine
+    container_name: casino_bot_redis
+    restart: unless-stopped
+    command: redis-server --appendonly yes
+    volumes:
+      - redis_data:/data
+    networks:
+      - bot_network
+    logging:
+      driver: json-file
+      options:
+        max-size: "10m"
+        max-file: "3"
+
+# Volumes для персистентных данных
+volumes:
+  redis_data:
+    driver: local
+
+# Сеть для изоляции сервисов
+networks:
+  bot_network:
+    driver: bridge
