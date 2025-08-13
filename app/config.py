@@ -80,7 +80,7 @@ class Config:
     @classmethod
     def get_persona_buttons(cls) -> List[str]:
         """Возвращает список кнопок для выбора персоны (EN)"""
-        return ["Business mode", "Bella", "Ben"]
+        return ["Official 💼", "Bella 💋", "Ben 💪🏼"]
     
     @classmethod
     def get_persona_type(cls, button_text: str) -> PersonaType:
