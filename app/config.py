@@ -86,9 +86,9 @@ class Config:
     def get_persona_type(cls, button_text: str) -> PersonaType:
         """Преобразует текст кнопки в тип персоны"""
         mapping = {
-            "Business mode": PersonaType.BUSINESS,
-            "Bella": PersonaType.BELLA,
-            "Ben": PersonaType.BEN,
+            "Official 💼": PersonaType.BUSINESS,
+            "Bella 💋": PersonaType.BELLA,
+            "Ben 💪🏼": PersonaType.BEN,
         }
         return mapping.get(button_text, PersonaType.BUSINESS)
 
