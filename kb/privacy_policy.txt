@@ -1,80 +1,71 @@
 1. Introduction
-2up.io is owned and operated by Uponly N.V., (“2UP”, “we”, “us”, or “our”) a Curacao company with registration number 163454, registered address: Zuikertuintjeweg Z/N (Zuikertuin Tower), Willemstad, Curacao. 2UP is licensed and regulated by the Government of the Autonomous Island of Anjouan, Union of Comoros and operates under License No. ALSI-042308001-FI1. We confirm the following Privacy Policy (the “Privacy Policy”) relating to the collection, storage and use of personal information.
-We take seriously our obligation to safeguard personal information about our clients. This Privacy Policy is in addition to Our Terms of Service and should be read in conjunction with the Terms of Service. By using this Website, opening an Account or placing a wager with us via Website, you agree to be bound by the terms of this Privacy Policy.
-We review our Privacy Policy from time to time and reserve the right, at our discretion, to amend this policy at any time without any notice other than posting the amended Privacy Policy on our Website. Amendments to the Privacy Policy will be affected immediately once posted on Website. The Customer’s continued use of our services following the posting of an amended Privacy Policy will be deemed as acceptance of those amendments.
-It is the Customer’s responsibility to ensure that the Customer keeps up-to-date with the current Privacy Policy. The Customer should review this page periodically so that you are updated on any changes to the policy.
+This Privacy Policy (the “Privacy Policy”) outlines how online casino operators collect, store, and use personal information. We take our obligation to safeguard personal information seriously. This Privacy Policy is supplementary to the Terms of Service of the operator and should be read in conjunction with them. By using the website, opening an account, or placing a wager, you agree to the terms of this Privacy Policy.
+The Privacy Policy is reviewed periodically and may be amended at any time. Amendments take effect immediately upon posting on the website. Continued use of the services after posting an amended Privacy Policy constitutes acceptance of those amendments.
+It is the responsibility of customers to remain informed about the current Privacy Policy and review it periodically.
 2. Personal Information
-Types of Personal Information we collect and hold. We collect a variety of personal information in the course of our business. The types of personal information that we may collect and hold includes, without limitation:
-identification information such as Customer’s name, date of birth, residential and postal address, gender, email address, telephone numbers;
-financial information;
-copies of identification documents such as drivers license, passport, birth certificate and/or utility bills;
-personally, submitted preferences;
-responses to competitions, other promotions and surveys;
-profession, occupation or job title.
-3. How we collect Personal Information
-We will collect personal information only by lawful and fair means.
-We collect your personal information directly from Customers unless it is unreasonable or impracticable to do so. We may collect this information when you:
-register for an account with Us;
-access or use our website or apps;
-use our products and services;
-participate in our competitions, giveaways and other promotions;
-contact us directly via any medium including: SMS, MMS, instant messaging, email, social media platforms, postal mail and telephone;
-provide feedback through our website/app feedback links;
-It may also be necessary to collect your personal information from third parties, including: 
-- credit reporting agencies, law enforcement agencies and other government entities; 
-- identify verification providers;
-Personal information may also be collected by cookies when you use our Website. See cookies below for further information.
-4. Why we collect, hold, use and disclose personal information
-We collect and hold, use and disclose personal information for purposes including the following:
-to allow you to register as a client of Ours;
-to provide products and services to you;
-to enable us to perform our obligations to you under Terms of Use, and to ensure that you perform your obligations under Terms of Use;
-for communicating with you, including sending you information about our products and services;
-for planning, research, promotion and marketing of our goods and services, including conducting competitions or promotions;
-to create aggregate data about clients through demographic profiling and statistical analysis of our database to optimize our products and services and/or allow for more efficient operation of our business;
-to maintain a credit information file on you and to carry out a credit assessment on you;
-to establish your bona fides;
-for the investigation of suspected unlawful, fraudulent or other improper activity connected with the use of our products and services;
-to comply with our legal and statutory obligations, including our obligations relating to identity verification and reporting under the Anti-Money Laundering and Counter Terrorism legislation and other applicable laws.
-5. To whom Personal Information is disclosed
-By registering with us and providing personal information you consent to your personal information being used by us and other entities in our group of companies.
-We share personal information with other entities in our group of companies in a strictly controlled manner and do not sell personal information to other companies.
-We may disclose your personal information to third parties as follows:
-to a credit reporting agency;
-to our contractors and external service providers associated with the operation of our business and provision of our services including, without limitation, associated data centres, web hosting providers, payment service providers, identification verification service providers, advertising agencies, mailing houses, printers, call centres, market research analysts, IT consultants, professional advisors and consultants;
-to law enforcement agencies to assist in the prevention of criminal activities;
-to government and regulatory authorities and other organizations as required or authorized by law or otherwise;
-controlling bodies where such controlling bodies request information to protect and maintain the integrity of services provided or where we consider any betting or gaming activity to be suspicious or unusual;
-to a successor entity in the event of a business transition, such as a merger, corporate reorganization or to a purchaser of part of or all of Our assets.
-Should the information be transferred to a third party, we will use reasonable endeavors to ensure that the information disclosed is protected by the third party under contractual arrangements.
+Online casino operators may collect and hold various types of personal information, including but not limited to:
+Identification information such as name, date of birth, residential and postal address, gender, email address, and telephone numbers;
+Financial information;
+Copies of identification documents, including driver’s license, passport, birth certificate, and/or utility bills;
+Personally submitted preferences;
+Responses to competitions, promotions, and surveys;
+Profession, occupation, or job title.
+3. How Personal Information is Collected
+Personal information is collected lawfully and fairly, usually directly from customers unless it is unreasonable or impracticable to do so. Collection may occur when you:
+Register for an account;
+Access or use the website or apps;
+Use products or services;
+Participate in competitions, giveaways, or promotions;
+Contact the operator via SMS, MMS, instant messaging, email, social media, postal mail, or telephone;
+Provide feedback through the website or app.
+Personal information may also be collected from third parties, including credit reporting agencies, law enforcement agencies, government entities, and identity verification providers. Cookies may also be used to collect information when the website is accessed.
+4. Purpose of Collecting, Holding, Using, and Disclosing Personal Information
+Personal information is collected, held, used, and disclosed for purposes including:
+Allowing registration as a client;
+Providing products and services;
+Performing obligations under the Terms of Use;
+Communicating with customers about products and services;
+Planning, research, promotion, and marketing, including competitions and promotions;
+Creating aggregate data through demographic profiling and statistical analysis;
+Maintaining credit information files and conducting credit assessments;
+Verifying identity and bona fides;
+Investigating suspected unlawful, fraudulent, or improper activity;
+Complying with legal and statutory obligations, including Anti-Money Laundering (AML) and Counter-Terrorism Financing (CTF) requirements.
+5. Disclosure of Personal Information
+By registering and providing personal information, customers consent to its use by the operator and, where applicable, other entities within the corporate group. Personal information is shared only in a controlled manner and is not sold to third parties.
+Personal information may be disclosed to:
+Credit reporting agencies;
+Contractors and service providers associated with operations and service provision, including data centers, web hosting providers, payment service providers, identity verification services, advertising agencies, mailing houses, printers, call centers, market research analysts, IT consultants, and professional advisors;
+Law enforcement agencies to prevent criminal activity;
+Government and regulatory authorities as required by law;
+Controlling bodies for integrity or suspicious activity review;
+Successor entities in the event of a business transition, such as mergers or asset sales.
+Reasonable steps are taken to ensure that any third party receiving personal information protects it under contractual arrangements.
 6. Security of Personal Information
-We will take reasonable steps to protect the personal information we collect and ensure that it is accurate, complete and up-to-date.
-Your information is held on secure servers. We may also store personal information in telephone recordings and in hard copy or paper files.
-Our employees, agents, contractors are required to maintain the confidentiality of all personal information.
-You are responsible for ensuring that you keep your username, password and account information confidential. If you suspect that your details may no longer be confidential, you should notify us immediately, whereupon new details may be given.
-You are responsible for the security of and access to your own computer/device. You should ensure that you always log out of your account after each use of the website/app.
-We understand the importance of security and techniques needed to secure information. We store all of the Personal Information we receive directly from you in the protected database residing within our secure network behind active state-of-the-art firewall software. As well as we do not store or process credentials of payment cards.
-7. Access to and correcting Personal Information
-We take reasonable steps to ensure that the personal information we collect about you is accurate, up-to-date and complete. We also take reasonable steps to ensure that the personal information we use or disclose is accurate, up-to-date, complete and relevant.
-If we are satisfied that your personal information should be corrected we will take reasonable steps to correct it – this may include contacting you to seek your most current information.
-You may request access to and correction of the personal information we hold about you. We will require you to verify your identity and to specify what information you require.
-You may also update or correct some of your personal information via the "My Account" section of the website/apps.
-8. Unsolicited personal information
-Where we receive unsolicited personal information, we will determine whether or not it would have been permissible to collect that personal information if it had been solicited. If we determine that collection would not have been permissible, to the extent permitted by law, we will destroy or de-identify that personal information as soon as practicable.
+Reasonable steps are taken to protect personal information and ensure it is accurate, complete, and up-to-date. Information is stored on secure servers and may also be held in telephone recordings or hard copy.
+Employees, agents, and contractors are required to maintain confidentiality. Customers are responsible for keeping their username, password, and account information confidential and for securing access to their devices. Customers should log out after using the website or app.
+All personal information is stored in a protected database within a secure network with advanced firewall protection. Payment card credentials are neither stored nor processed by the operator.
+7. Access to and Correcting Personal Information
+Online casino operators take reasonable steps to ensure that the personal information collected is accurate, up-to-date, and complete. Reasonable steps are also taken to ensure that any personal information used or disclosed is accurate, relevant, and current.
+If it is determined that your personal information should be corrected, reasonable steps will be taken to update it, which may include contacting you to obtain the most current information.
+You may request access to and correction of the personal information held about you. Verification of identity may be required, and you should specify the information you need. Some personal information may also be updated or corrected via the “My Account” section of the website or app.
+8. Unsolicited Personal Information
+Where unsolicited personal information is received, the online casino operator will determine whether it could have been lawfully collected if it had been solicited. If it is determined that collection would not have been permissible, the information will, to the extent permitted by law, be destroyed or de-identified as soon as practicable.
 9. Non-Personal Information
-Like most websites, we may collect non-personal information from your use of our Website in order to assist with the administration of our Website, to track site usage and to enhance your user experience.
-Once logged in your IP address is tracked against your user ID for the purposes of preventing fraud, identifying improper activity connected with the use of our products and services, and creating an audit trail. We collect and store non-personal information that we collect through cookies, log files or web beacons to create a profile of our users. A profile is stored information that we keep on individual users that detail their viewing preferences.
-This profile is used to tailor a user’s visit to the site, and to direct pertinent marketing promotions to users.
+Like most websites, online casino operators may collect non-personal information to assist with website administration, track usage, and enhance the user experience.
+When logged in, your IP address may be tracked against your user ID to prevent fraud, identify improper activity, and create an audit trail. Non-personal information may be collected and stored via cookies, log files, or web beacons to create a user profile. Profiles are used to tailor visits to the site and direct relevant marketing promotions to users.
 10. Cookies
-Cookies are small pieces of data which are stored by a website through your browser, to enable an improved experience whilst using or browsing a particular Website or to remember your preferences or navigation history/activity (such as pages you have visited within a particular site or typical activity) at a particular site.
-We may use cookies to remember your preferences when you have visited our site and pages you like to regularly visit and to ensure that you receive the most up to date information which is relevant to you and your experience with Us. We also use cookies for internal management purposes and to enable essential activity to ensure that your account works correctly when accessing our services.
-We will not use these cookies to store information such as account details or transaction history. You can delete cookies using your browser's own Clear History function. You can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, Website features or services may not function properly without cookies.
-Most web browsers allow some control of cookies through the browser settings. It is important to note however that if you block cookies from our Website there are a number of functions that may not work and you will need to reset your preferences each time you log in.
-11. Third Party cookies
-We may use third-parties to serve ads on our website/apps. These companies may place or recognize cookies, action tags and other technology to measure advertising effectiveness. We may use cookies to remarket to you across the internet.
-The use of cookies allows us to inform, optimize, and serve ads based on someone’s past visits to our website/apps.
-To specifically opt-out of interest-based ad targeting click here and follow the instructions.
-Find out more about cookies 
-To find out more about cookies, including how to see what cookies have been set and how to manage and delete them, visit www.allaboutcookies.org.
+Cookies are small data files stored by a website through your browser to improve your experience, remember preferences, or track activity such as pages visited or typical interactions on the site.
+Cookies may be used to:
+Remember your preferences and frequently visited pages;
+Ensure that account-related features function correctly;
+Provide up-to-date information relevant to your use of the website;
+Support internal management purposes.
+Cookies are not used to store sensitive information such as account details or transaction history. Cookies can be deleted through your browser’s Clear History function. Browsers can be set to refuse cookies or indicate when a cookie is sent, though some features of the website or app may not function properly without cookies.
+Most browsers allow users to control cookies through settings. Blocking cookies may require resetting preferences each time you log in.
+11. Third-Party Cookies
+Third-party companies may serve ads on the website or app, placing or recognizing cookies, action tags, or other technologies to measure advertising effectiveness. Cookies may also be used to remarket to users across the internet.
+Cookies allow online casino operators to inform, optimize, and serve ads based on past website visits. Users can opt out of interest-based ad targeting by following instructions provided by the relevant third-party advertising service.
+For more information on cookies, including how to manage and delete them, visit www.allaboutcookies.org.
 12. Complaints
-If you have a complaint relating to how we handle personal information, please contact our support at support@2up.io
+If you have a complaint regarding how personal information is handled, please contact the online casino operator’s support team through the website or app.

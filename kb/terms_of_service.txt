@@ -1,160 +1,164 @@
 1. Introduction
-1.1. 2up.io is owned and operated by Uponly N.V., (“2UP”, “we”, “us”, or “our”) a Curacao company with registration number 163454, registered address: Zuikertuintjeweg Z/N (Zuikertuin Tower), Willemstad, Curacao. 2UP is licensed and regulated by the Government of the Autonomous Island of Anjouan, Union of Comoros and operates under License No. ALSI-042308001-FI1.
-1.2. By using, visiting and/or accessing any part of the 2UP website and or any sub-domain, website or mobile application that we own or operate (the "Website") and/or registering an account on the Website you agree to be bound by these Terms of Service, Privacy Policy, Dispute Resolution, Responsible Gaming, Self-Exclusion and any other rules applicable to our betting or gaming products available on the Website.
-1.3. Reference to “you”, “your”, “Customer”, “User” or “Player” shall mean any person using the Website or any services available thereon and/or any registered customer of the Website.
-1.4. You should read the Terms of Service carefully, if you do not agree with them and/or cannot accept them, please do not use, visit or access the Website.
-1.5. These Terms of Service may be changed by us from time to time for any reason (including compliance with applicable legislation or requirements of regulators). An up to date version of the Terms of Service will always be available on the Website. If you continue to use the Website after such changes come into effect you are deemed to have accepted such changes to the Terms.
-1.6. Reference to “Games” shall mean Casino, Live Casino, Sportsbook, cards, and other games as may from time to time become available on the Website. 2UP reserves the right to add and remove Games from the Website at its own discretion.
-1.7. The abbreviations used in the Terms of Service should apply to all policies of the Company, if not indicated otherwise.
+1.1. This website and its services (referred to as “we”, “us”, or “our”) are owned and operated by the company identified on the Website, licensed and regulated by the relevant authority in its jurisdiction.
+1.2. By using, visiting, and/or accessing any part of the Website, including any sub-domain, mobile application, or registering an account, you agree to be bound by these Terms of Service, Privacy Policy, Dispute Resolution, Responsible Gaming, Self-Exclusion, and any other rules applicable to the gaming or betting products available on the Website.
+1.3. References to “you”, “your”, “Customer”, “User” or “Player” mean any person using the Website, any services available thereon, or any registered customer of the Website.
+1.4. You should read the Terms of Service carefully. If you do not agree with them, please do not use, visit, or access the Website.
+1.5. These Terms of Service may be updated from time to time for any reason, including compliance with applicable legislation or regulatory requirements. The most current version will always be available on the Website. Continued use of the Website after such changes constitutes acceptance of the updated Terms.
+1.6. References to “Games” mean casino games, live casino, sportsbook, cards, or any other games made available on the Website. The operator reserves the right to add or remove Games at its discretion.
+1.7. Abbreviations used in the Terms of Service apply to all policies of the operator unless stated otherwise.
 2. Your Account
-2.1. Legal requirements
-2.1.1. Reference to the “Account” shall mean an account registered by you on the Website after accepting and agreeing to these Terms of Service. By registering an Account, you declare that you are over 18 years of age or of a higher minimum legal age as stipulated in the jurisdiction of your residence under the laws applicable to you. It is your sole responsibility to know whether the services available on the Website are legal in the country of your residence. Persons who are under age of 18 years are not allowed to use the Website and/or any services available on it.
-2.1.2. You must not use the Website, if you reside in a country in which access to online gambling to its residents or to any person within such country is prohibited.
-2.1.3. You are not allowed to register on the Website and use our services if you are a resident of the following restricted jurisdictions: Australia, Curacao, Iran, Iraq,  North Korea, Singapore, Switzerland, USA and its territories, Union of Comoros, All FATF Blacklisted countries
-Any other jurisdictions deemed prohibited by Anjouan Offshore Financial Authority
-2.1.4. We reserve the right to refuse Customers from any other countries over and above the aforementioned jurisdictions at our own discretion.
-2.1.5. You may not use a VPN, proxy, or similar services or devices that mask or manipulate the identification of your real location.
+2.1. Legal Requirements
+2.1.1. Reference to the “Account” means an account registered by you on the Website after accepting these Terms. By registering, you confirm that you are over 18 years old (or the legal minimum age in your jurisdiction). It is your responsibility to ensure that using the Website is legal in your country of residence. Persons under the legal age are not permitted to use the Website or its services.
+2.1.2. You must not use the Website if you reside in a country where online gambling is prohibited.
+2.1.3. Residents of restricted jurisdictions, including but not limited to Australia, Curacao, Iran, Iraq, North Korea, Singapore, Switzerland, USA and its territories, Union of Comoros, and FATF blacklisted countries, are not allowed to register or use the Website. Other jurisdictions may be restricted at the operator’s discretion.
+2.1.4. Use of VPNs, proxies, or similar services that mask or manipulate your real location is prohibited.
 2.2. Registration of Account
-2.2.1. In order to place bets, play games and deposit crypto or fiat currency you need to register the Account on the Website.
-2.2.2. To register the Account, you must provide complete and up-to-date information including an e-mail address, username, password and other mandatory information requested on the registration form.
-2.2.3. We reserve the right to refuse to accept a registration application from any applicant at our sole discretion and without any obligation to communicate a specific reason.
-2.2.4. By registering the Account on the Website, you agree to specify your legal name. We may act to check the accuracy of the information you provide. You’re not allowed to change this data, but there are cases in which you can individually request for changing of data by contacting Website customer support, such as an honest mistake etc.
-2.2.5. If you choose, or you are provided with a username, password or any other piece of information as part of our security procedures, you must treat such information as confidential, and you must not disclose it to any third party. We are not responsible for any abuse or misuse of your Account by third parties due to your disclosure, whether intentional or accidental, whether active or passive, of your login details to any third party. We will never ask you to reveal your password and will never initiate contact with you to ask you for the memory joggers associated with your password.
-2.2.6. Employees, former employees of service providers and/or affiliated persons are not permitted to register the Accounts on the Website and cannot exploit the services and promotions available on it. Same rules apply to family members of the above mentioned. Violation of this rule will result in the Account being permanently closed and the referred Accounts will be considered as fraudulent. Any winnings derived from such activities will be deemed as forfeited by the Account holder and only the deposited amount will be returned to the Account holder.
-2.2.7. The Company of the Customer cannot transfer, sell, or pledge an Account to another person. This prohibition includes the transfer of any assets of value of any kind, including but not limited to ownership of Accounts, winnings, deposits, bets, rights and/or claims in connection with these assets, legal, commercial, or otherwise. The prohibition on said transfers also includes however is not limited to the encumbrance, pledging, assigning, usufruct, trading, brokering, hypothecation and/or gifting in cooperation with a fiduciary or any other third party, company, natural or legal individual, foundation and/or association in any way shape or form.
-2.3. Account issues
-2.3.1. If Customer forgets password or thinks that somebody knows details of personal data, moreover if you suspect that another user is taking an unfair advantage through cheating or collusion you must report the suspicion to us.
-2.3.2. We reserve the right to declare any bet or transaction void partially or in full if we, at our own discretion, would deem it obvious that any of the following circumstances have occurred: the Account holder or people associated with the Account holder may directly or indirectly influence the outcome of an event; the Account holder and or people associated with the Account holder are directly or indirectly avoiding the rules of the Website; the result of an event or the bet has been directly or indirectly affected by criminal activity; the odds of an event have significantly been changed due to a public announcement in relation to the event; bets have been placed that would not have been accepted otherwise, but they were accepted during periods when the Website have been affected by technical problems; due to an error, such as a mistake, misprint, technical error, human error, force majeure or otherwise, bets have been offered, placed and or accepted due to this error.
-2.3.3. When we close or suspend an Account for whatever reason, we reserve the right to close any future Accounts that may be registered by the same person, device, address, or that may use the same payment wallets or credit cards and void/cancel all bets and transactions of that Accounts.
-2.3.4. We offer two-factor authentication (2FA) as additional protection from unauthorized use of your Account. You are responsible for keeping your login information confidential and making sure it cannot be accessed by another person.
-2.4. By registering the Account on the Website, you undertake, declare and warrant that:
-2.4.1. You are over 18 years of age or such higher minimum legal age of majority as stipulated in the laws of jurisdiction applicable to you and, under the laws applicable to you, you are allowed to participate in the Games offered on the Website.
-2.4.2. You will use this Website and your Account solely and exclusively for the purpose of your genuine participation in the Games and not for any financial or other operations; your participation in the Games will be strictly in your personal non-professional capacity for recreational and entertainment reasons only.
-2.4.3. You participate in the Games on your own behalf and not on behalf of any other person;
-2.4.4. You are not a resident of the countries indicated in 2.1.3.
-2.4.5. All information that you provide to 2UP is true, complete, and correct, and that you shall immediately notify us of any change of such information.
-2.4.6. You are solely responsible for reporting and accounting for any taxes applicable to you under relevant laws for any winnings that you receive from 2UP.
-2.4.7. All crypto and fiat currency that you deposit into your Account is not tainted with any illegality and, in particular, does not originate from any illegal activity or source.
-2.4.8. You understand that by participating in the Games you take the risk of losing funds deposited into your Account.
-2.4.9. You shall not be involved in any fraudulent, collusive, fixing or other unlawful activity in relation to your or third parties' participation in any of the Games and shall not use any software-assisted methods or techniques or hardware devices for your participation in any of the Games. 2UP hereby reserves the right to invalidate or close your Account or invalidate your participation in a Game in the event of such behavior.
-2.4.10. In relation to deposits and withdrawals of crypto or fiat currency into and from your Account, you shall use your crypto currency wallet or debit/credit card (cards are used to exchange fiat into crypto currency within the Website directly), if the Website allows such method of deposit/withdrawal.
-2.4.11. The computer software that we make available to you is owned by 2UP or other third parties and protected by copyright and other intellectual property laws. You may only use the software for your own personal, recreational uses in accordance with all rules, terms and conditions hereby established and in accordance with all applicable laws, rules and regulations.
-2.4.12. Games played on the Website should be played in the same manner as games played in any other setting. You shall be courteous to other players and representatives of 2UP and shall avoid rude or obscene comments, including in chat rooms.
+2.2.1. To place bets, play games, or deposit funds, you must register an Account on the Website.
+2.2.2. Registration requires complete and accurate information, including email address, username, password, and other mandatory details.
+2.2.3. The operator reserves the right to refuse registration at its discretion without providing a specific reason.
+2.2.4. You must provide your legal name during registration. Corrections may be requested individually through customer support in cases such as honest mistakes.
+2.2.5. You must treat login information as confidential and not disclose it to third parties. The operator is not responsible for misuse or unauthorized access resulting from disclosure of login details.
+2.2.6. Employees, former employees of service providers, affiliated persons, and their family members may not register or exploit the Website’s services and promotions. Violation will result in permanent closure of the Account, with any winnings forfeited.
+2.2.7. Accounts, deposits, winnings, bets, and associated rights may not be transferred, sold, pledged, or assigned to any other person or entity in any manner.
+2.3. Account Issues
+2.3.1. If you forget your password, suspect your account is compromised, or believe unfair play is occurring, you must notify the operator immediately.
+2.3.2. The operator reserves the right to void bets or transactions, partially or fully, if it deems any of the following has occurred:
+The account holder or associated persons influence the outcome of an event.
+Rules of the Website are being avoided.
+Criminal activity affects the result of an event or bet.
+Odds are significantly altered due to public announcements.
+Bets were accepted due to technical problems or errors.
+Errors, including misprints, technical faults, human errors, or force majeure, lead to bets being offered, placed, or accepted.
+2.3.3. In the event of closing or suspending an Account for any reason, the operator reserves the right to close any future Accounts registered by the same person, device, address, or using the same payment methods or credit cards, and to void/cancel all bets and transactions of those Accounts.
+2.3.4. We offer two-factor authentication (2FA) for additional protection against unauthorized use of your Account. You are responsible for keeping your login information confidential and ensuring that no one else has access to your Account.
+2.4. By registering an Account on the Website, you represent, declare, and warrant that:
+2.4.1. You are over 18 years of age, or the higher minimum legal age of majority under the laws applicable to you, and are legally permitted to participate in the Games offered on the Website.
+2.4.2. You will use the Website and your Account solely for personal participation in the Games for recreational and entertainment purposes, and not for any financial or professional activities.
+2.4.3. You participate in the Games on your own behalf and not on behalf of any third party.
+2.4.4. You are not a resident of countries prohibited from participation according to the Website’s rules.
+2.4.5. All information you provide is true, complete, and accurate, and you will promptly notify the operator of any changes.
+2.4.6. You are solely responsible for reporting and paying any taxes applicable to you under relevant laws on any winnings received through the Website.
+2.4.7. All crypto and fiat currency deposited into your Account are legally obtained and not derived from any illegal activity.
+2.4.8. You understand that participating in the Games carries the risk of losing any funds deposited into your Account.
+2.4.9. You will not engage in fraudulent, collusive, fixed, or otherwise unlawful activities in relation to your or third parties’ participation in any Games and will not use software-assisted methods or hardware devices for participation. The operator reserves the right to invalidate or close your Account or your participation in a Game in case of such behavior.
+2.4.10. For deposits and withdrawals of crypto or fiat currency, you shall use your own wallets or cards if the Website supports such methods.
+2.4.11. The software provided for your use is owned by the operator or third parties and is protected by copyright and other intellectual property laws. You may only use the software for personal, recreational purposes in accordance with the rules, terms, and applicable laws.
+2.4.12. Games should be played fairly, as in any other setting. You shall be courteous to other players and Website representatives and refrain from rude or obscene comments, including in chat rooms.
 3. Multi Accounts
-3.1. Customer can sign up (register) and use only one Account on the Website.
-3.2. Only one Account for each household, IP address and computer or device is allowed. If two or more users share the same household, IP address and computer or device we must be informed by the respective Accounts' holders in advance.
-3.3. If Customer signs up or attempts to register more than one Account, for whatever reason, we may block or close any or all of Customer's Accounts at our discretion. We may also void all the bets that have been placed in the duplicate Accounts, block bonuses and gifts and void withdrawal requests. In addition, any returns, winnings, or bonuses have been gained or accrued during the duplicate account lifecycle will be forfeited from the Customer.
-4. Processors
-4.1. We reserve the right to use third party electronic payment processors to process payments made by you.
-4.2. All transactions made on our site might be checked to prevent money laundering or terrorism financing activity. Suspicious transactions will be reported to the relevant authority.
+3.1. A user may register and use only one Account on the Website.
+3.2. Only one Account per household, IP address, and device is allowed. If multiple users share the same household, IP address, or device, the operator must be informed in advance.
+3.3. If a user attempts to register multiple Accounts, the operator may block or close all such Accounts, void all bets, block bonuses, and cancel withdrawal requests. Any winnings or bonuses earned through duplicate Accounts will be forfeited.
+4. Payment Processors
+4.1. The operator reserves the right to use third-party payment processors to handle payments.
+4.2. All transactions may be monitored to prevent money laundering or terrorist financing. Suspicious transactions will be reported to the relevant authorities.
 5. Payouts
-5.1. When the outcome of a Game you participate in becomes determined or, where applicable, the Company has confirmed the relevant result of an event and settled the markets; all winnings will be available on your Account.
-5.2. If the Company mistakenly credits your Account with winnings that do not belong to you, whether due to a technical or human error or otherwise, the amount will remain property of the Company and the amount will be deducted from your Account. If prior to the Company becoming aware of the error you have withdrawn funds that do not belong to you, without prejudice to other remedies and actions that may be available at law, the mistakenly paid amount will constitute a debt owed by you to the Company in the event of an incorrect crediting, you are obliged to notify our support team immediately using the following email support@2up.io..
-5.3. The Company will carry out additional verification and identification procedures for any withdrawal or reserves the right to carry such verification procedures at any level of withdrawals. All transactions will be checked to prevent money laundering and terrorist financing.
+5.1. Once the outcome of a Game is determined or the event result is confirmed, all winnings will be credited to your Account.
+5.2. If the operator mistakenly credits your Account with funds that do not belong to you, they remain the property of the operator and will be deducted from your Account. If funds were withdrawn before the error was discovered, they will constitute a debt owed to the operator, and you are obliged to notify support immediately.
+5.3. The operator may conduct additional verification and identification procedures for withdrawals and reserves the right to do so at any level. All transactions are checked to prevent illegal activity.
 6. Deposits
-6.1. To have a possibility to place bets and play with crypto currency or fiat you have to deposit into your Account. You can deposit at any time online by using a transfer of crypto currency, bank transfer, e-wallet or debit/credit card (cards are used to exchange fiat into crypto currency within the Website directly), if the Website allows such method of deposit. All available deposit methods you can find in "Deposit page" on the Website. Cash or cheques are not an accepted method of deposit. Please note that some of the methods may not be available in some countries.
-6.2. Any payment received by the Company in a currency other than the selected crypto or fiat currency of your Account will be converted into the selected crypto or fiat currency of your Account, at the prevailing exchange rate. Please note that any exchange premiums are payable by you.
-6.3. The Company reserves the right to use additional procedures and means to verify your identity (KYC) when effecting deposits into an Account and to close an Account if you fail to send these documents to support@2up.io.
-6.4. The Company does not grant any credit for the use of its services.
-6.5. By depositing you confirm that all deposits are authorized and you won't try to decline them or take any action which will cause such payment to be reversed by the third party, in order to avoid any legitimate liability.
-6.6. As a prevention of money laundering, a deposit must be wagered at least once before a withdrawal can be made, in currencies where more than once is required, it will be stated. Please note that if wagering requirements are in place, the wagering requirement needs to be respected before a withdrawal is requested.
-6.7. The Company doesn't allow making third party deposits (by a friend, relative, partner, wife or husband). All payments have to be made from an Account/system, wallet or debit/credit card that is registered on the Account holder's name. If the third party deposits are noticed all winnings will be forfeited and sent back and the deposit will be returned to the rightful owner. If any taxes are levied on the return of the funds to the rightful owner, they will be paid by a receiver.
+6.1. To place bets and play with cryptocurrency or fiat, you must deposit funds into your Account. Deposits can be made online at any time using cryptocurrency transfers, bank transfers, e-wallets, or debit/credit cards (cards may be used to convert fiat into cryptocurrency if the Website allows it). All available deposit methods are listed on the "Deposit" page of the Website. Cash or cheques are not accepted. Some methods may not be available in certain countries.
+6.2. Payments made in a currency different from your selected Account currency will be converted at the prevailing exchange rate. Any exchange fees are payable by you.
+6.3. The operator reserves the right to require additional verification (KYC) for deposits and may close an Account if requested documents are not provided.
+6.4. The operator does not provide credit for the use of its services.
+6.5. By depositing, you confirm that all deposits are authorized and you will not attempt to reverse them or take any action that would cause the payment to be reversed by a third party.
+6.6. To prevent money laundering, deposits must be wagered at least once before a withdrawal can be made, unless stated otherwise. Wagering requirements must be met before requesting a withdrawal.
+6.7. Third-party deposits (by friends, relatives, partners, spouses, etc.) are not allowed. All payments must originate from an Account, wallet, or card registered in your name. Third-party deposits will result in forfeiture of winnings and return of the deposit to the rightful owner. Any taxes on returned funds are the responsibility of the recipient.
 7. Withdrawals
-7.1. The Customer has to provide KYC documents, details on proof of crypto currency wallet, bank account or debit/credit card pictures (both sides, front and back. The card number should be with the first 6 and last 4 digits of the card clearly readable, while the remaining digits of the card number and CVV / CVC code should not be visible) and bank statement, copy of a personal identification document, proof of address, proof of ownership of any other used payment method when requested by The Company. Additional requirements depending on payment channels will apply.
-7.2. The Company reserves the right to change the maximum allowed sum for each payment system per one transaction at any time and without prior notification.
-7.3. A withdrawal request will not be processed until all wagering requirements have been met.
-7.4. It will not be possible to withdraw funds stuck in an aborted game.
-7.5. The Company has the right to refuse withdrawal if the total bet amount is less than the amount of the last deposit. You have to turn over the initial deposit at least one time before being able to withdraw.
-7.6. All withdrawal requests are typically processed instantly, but can take up to two (2) working days, but there are cases where these timings can be longer, depending on payment channels, additional account checks, and public holidays.
-7.7. A user cannot withdraw funds in excess of his/her Account balance.
-7.8. Withdrawals will be made to your crypto currency wallet or other withdrawal methods available. The withdrawals are processed by the method used by the user to deposit funds into Account balance.
-7.9. When a withdrawal is canceled, the funds are returned back to your Account and you can make use of those funds accordingly on the Account. The Company does not assume any responsibility for any funds lost during gameplay following a withdrawal cancellation either by you or by us.
-7.10. Please be advised that our products are consumed instantly during gameplay. Thus, we cannot provide refunds, returns of funds, or cancellation of the requested service when playing.
-7.11. If your account is flagged, the customer may only withdraw the maximum stipulated by us in any 24 hour and 30 day period.
-7.12. Prior to accepting a withdrawal we may request that you provide legal identification for example certified copies of passports, ID cards or other such documentation as we feel is required in the circumstances. We may also carry out phone verification, face verification or other such verification as is required to ensure that you are who you say you are.
+7.1. Users must provide KYC documents and proof of ownership of the payment methods used, including photos of debit/credit cards (showing first 6 and last 4 digits only), bank statements, personal ID, and proof of address when requested. Additional requirements may apply depending on the payment method.
+7.2. The operator reserves the right to change the maximum withdrawal limits for each payment method at any time without notice.
+7.3. Withdrawal requests will not be processed until all wagering requirements are met.
+7.4. Funds from aborted games cannot be withdrawn.
+7.5. Withdrawals may be refused if the total bet amount is less than the amount of the last deposit. The initial deposit must be wagered at least once before withdrawal.
+7.6. Withdrawals are typically processed instantly but may take up to two (2) working days, depending on payment methods, additional account checks, or public holidays.
+7.7. Users cannot withdraw more than their Account balance.
+7.8. Withdrawals are made to the same method used for deposits (crypto wallet, bank account, card, etc.).
+7.9. If a withdrawal is canceled, funds are returned to your Account and can be used accordingly. The operator is not responsible for any loss of funds during gameplay after a canceled withdrawal.
+7.10. Services are consumed instantly during gameplay. Refunds, returns, or cancellations are not provided.
+7.11. If an Account is flagged, withdrawals may be limited to a maximum amount per 24-hour or 30-day period.
+7.12. Prior to accepting a withdrawal, the operator may request legal identification, face verification, phone verification, or other procedures to confirm the user’s identity.
 8. Account Closure
-8.1. You may close your Account at any time and request a withdrawal of the balance of the Account, subject to the deduction of relevant withdrawal charges. To close your Account, you must first cancel any open bets if applicable, and contact the Website customer support. The effective closure of the Account will correspond to the termination of the Company. In case the reason behind the closure of the Account is related to concerns about possible gambling addiction you shall inform support@2up.io and request immediate assistance.
-8.2. The method of repayment will be at our absolute discretion.
-8.3. The Company reserves the right to close your Account and to refund to you the "Available to withdrawal" balance, subject to the deduction of relevant withdrawal charges, at Company's absolute discretion and without any obligation to state a reason or give prior notice.
-8.4. The Company reserves the right to cancel and remove any bonus amount awarded to you if not been used or claimed within 1 month from the date awarded.
-8.5. The Company reserves the right to refuse a withdrawal claim in case of fraud, in which case an Account will be suspended and the payment not processed.
-8.6. The Company will review all player Accounts and classify them at its discretion. Once a player is classified as a "bonus hunter" or "bonus abuser" all winnings and bonuses will be void and the Account will be suspended and the payment not processed.
+8.1. You may close your Account at any time and request a withdrawal of the remaining balance, subject to any applicable withdrawal charges. Open bets must be canceled first. If closure is related to gambling concerns, support should be contacted for assistance.
+8.2. The method of repayment will be at the operator’s discretion.
+8.3. The operator may close your Account at its discretion and refund the "available to withdraw" balance, subject to withdrawal charges, without prior notice or explanation.
+8.4. Any unused or unclaimed bonuses may be canceled and removed after 1 month from the date awarded.
+8.5. Withdrawals may be refused in cases of suspected fraud, and the Account may be suspended.
+8.6. Accounts may be reviewed and classified at the operator’s discretion. Users classified as "bonus hunters" or "bonus abusers" will have winnings and bonuses voided, and their Accounts suspended with payments denied.
 9. Personal Information
-9.1. We will comply with applicable data protection laws in respect of the personal information you supply to us. Your personal information is processed in accordance with our Privacy Policy.
+9.1. We will comply with applicable data protection laws regarding the personal information you provide. Your personal information is processed in accordance with our Privacy Policy.
 10. System
-10.1. The Company utilizes third-party gaming systems that are fully licensed, certified and equipped with Random Number Generator (RNG) guarantees to ensure fair play and compliance with industry standards. These systems have undergone rigorous testing and have received all necessary certifications from relevant regulatory bodies to guarantee their reliability and integrity. Additionally, our system is regularly tested to ensure ongoing compliance with all regulatory requirements, maintaining the highest levels of security, fairness, and transparency. We are committed to providing a safe and trustworthy gaming environment for all users.
+10.1. The operator uses third-party gaming systems that are fully licensed, certified, and equipped with Random Number Generators (RNG) to ensure fair play and industry compliance. These systems are regularly tested and certified by relevant regulatory bodies to guarantee reliability, security, fairness, and transparency.
 11. Suspicious Activity
 11.1. Criminal Activity
-In the case when any irregularity (including a suspicion of attempted money-laundering or fraud) has been noticed, the Company reserves the right to close Accounts and/or report about criminal or other suspicious activities provided through one or multi Accounts to the relevant existing regulatory or law enforcement authorities. All offenders' Account balances will be blocked, withdrawals will be void, deposits and winnings will be forfeited.
-11.2. Collusion and cheating
-The Company is eligible to disable users Accounts and forfeit their Account balances (including deposits and winnings) if they will be noticed of gaining, attempting to gain an advantage of trading information of their cards or establishing a collusive agreement with other users to take an unfair advantage. These advantages may consist of chip dumping and transfer, discussing a hand during play, multiple using a single Account, soft playing. Company provides the rigorous examination of play by both manual and automated ways and investigates all related user complaints. In addition, Company provides proactively and randomly examining gameplays and Accounts.
-11.3. Fraudulent activity
-Once Company noticed a fraudulent, unlawful, dishonest or improper activity (including using the VPN, proxy or similar service that masks or manipulates the identification of your real location, or making bets, wagers or poker play through a third party or on behalf of a third party) on the Website, we are eligible to block user's Account with forfeiting of all Account balances without prior notification. In such cases, Company reserves the right to report fraudulent activity to existing regulatory and law enforcement authorities including but not limited to crypto asset service providers, banks, credit card companies and/or any person or entity that has the legal right to such information, and/or taking legal action against such user.
+The operator reserves the right to close Accounts and/or report any suspected criminal or fraudulent activity (including potential money laundering) to relevant regulatory or law enforcement authorities. Offenders’ balances will be blocked, withdrawals voided, and deposits and winnings forfeited.
+11.2. Collusion and Cheating
+Accounts may be suspended and balances forfeited if users are found colluding, sharing card information, chip dumping, soft playing, using multiple Accounts, or attempting any unfair advantage. The operator investigates play both manually and automatically, including random checks and review of complaints.
+11.3. Fraudulent Activity
+Use of VPNs, proxies, third-party accounts, or any attempt to disguise location or identity may result in immediate Account suspension and forfeiture of all balances. Fraudulent activity may be reported to relevant authorities, including crypto service providers, banks, and other legal entities, and legal action may be taken.
 12. Chat
-12.1. As part of your use of the Website, Company may provide you with a chat facility, which is moderated by us and subject to controls. We reserve the right to review the chat and to keep a record of all statements made on such a facility. Your use of the chat facility should be for recreational and socializing purposes, and is subject to the following rules.
-12.2. You shall not make any statements that are sexually explicit or grossly offensive, including expressions of bigotry, racism, hatred, or profanity.
-12.3. You shall not make statements that are abusive, defamatory or harassing or insulting to the Website or the Company.
-12.4. You shall not make statements that advertise, promote or otherwise relate to any other online entities.
-12.5. You shall not make statements about the Company, the Website, or any other Internet site(s) connected to the Company that are untrue and/or malicious and/or damaging to the Company.
-12.6. You shall not collude through the chat rooms or separate chat. Any suspicious chats will be reported to the relevant regulatory or law enforcement authority.
-12.7. In the event if you breach any of the above provisions relating to the chat facility, the Company shall have the right to remove the chat room or immediately terminate your Account. Upon such termination, the Company shall refund to you any funds which may be in your Account over and above any amount which may be owing to us at such time (if any).
+12.1. The Website may provide a chat facility, which is moderated and monitored. All statements may be recorded. Chat is for recreational and social purposes only and subject to rules.
+12.2. Do not make sexually explicit, grossly offensive, racist, hateful, or profane statements.
+12.3. Do not make abusive, defamatory, harassing, or insulting statements.
+12.4. Do not advertise or promote other online entities.
+12.5. Do not make untrue, malicious, or damaging statements about the operator or Website.
+12.6. Do not collude via chat; suspicious activity may be reported to authorities.
+12.7. Breach of chat rules may result in Account termination and removal of chat access. Remaining Account funds may be refunded, minus any amounts owed.
 13. Crashed & Aborted Games
-13.1. The Company is not liable for any downtime, server disruptions, lagging, or any technical or political disturbance to the gameplay. Refunds may be given solely at the discretion of the Company.
-13.2. The Company shall accept no liability for any damages or losses which are deemed or alleged to have arisen out of or in connection with Website or its content, including without limitation, delays or interruptions in operation or transmission, loss or corruption of data, communication or lines failure, any person's misuse of the Website or its content or any errors or omissions in content.
-13.3. In the event of a casino system malfunction, all wagers are void.
-13.4. In the event a Game is started but miscarried because of a failure of the system, the Company shall refund the amount wagered in the Game to you by crediting it to your Account or, if an Account no longer exists, by paying it to you in an approved manner; and if you have an accrued credit at the time the Game miscarried, credit to your Account the monetary value of the credit or, if an Account no longer exists, pay it to you in an approved manner.
+13.1. The operator is not liable for downtime, server issues, technical or political disruptions. Refunds are at the operator’s discretion.
+13.2. The operator is not liable for losses or damages arising from delays, interruptions, data loss, communication failures, misuse of the Website, or content errors.
+13.3. In case of system malfunctions, all wagers are void.
+13.4. If a Game fails due to a system error, wagered amounts will be refunded to your Account or via an approved method if the Account no longer exists. Any accrued credits will be refunded similarly.
 14. Duties
-14.1. The Company reserves the right to assign or otherwise lawfully transfer its rights and obligations under the Terms of Service. You shall not assign or otherwise transfer your rights and obligations under these Terms.
+14.1. The operator may assign or transfer its rights and obligations under these Terms. Users may not assign or transfer their rights or obligations under these Terms.
 15. Complaints
-15.1. If you have a complaint, you can email to Website customer support at support@2up.io.
-15.2. The Company will use best efforts to resolve a reported matter promptly.
-15.3. If you have a query about any transaction you may contact the Company's support team at support@2up.io with details of the query. We will review any queried or disputed transactions. Our judgment is final.
+15.1. Complaints can be submitted to the Website customer support.
+15.2. The operator will make best efforts to resolve complaints promptly.
+15.3. Queries regarding transactions can be submitted to support with details. The operator’s decision on disputed transactions is final.
 16. Agreement & Admissibility
-16.1. These Terms of Service and any document expressly referred to in them and any guidelines or rules posted on the Website constitute the entire agreement and understanding between you and the Company with respect to this Website and save in the case of fraud it supersedes all prior or contemporaneous communications and proposals, whether electronic, oral or written, between you and the Company with respect to this Website.
-16.2. A printed version of these Terms of Service and of any notice given in electronic form shall be admissible in judicial or administrative proceedings based upon or relate to these Terms of Service to the same extent and subject to the same conditions as other business documents and records originally generated and maintained in printed form.
+16.1. These Terms of Service and any document expressly referred to in them and any guidelines or rules posted on the Website constitute the entire agreement and understanding between you and the operator of the Website with respect to this Website and, save in the case of fraud, supersede all prior or contemporaneous communications and proposals, whether electronic, oral, or written, between you and the Website operator with respect to this Website.
+16.2. A printed version of these Terms of Service and of any notice given in electronic form shall be admissible in judicial or administrative proceedings based upon or relating to these Terms of Service to the same extent and subject to the same conditions as other business documents and records originally generated and maintained in printed form.
 16.3. If any provision of these Terms of Service is held to be illegal or unenforceable, such provision shall be severed from these Terms of Service and all other provisions shall remain in force unaffected by such severance.
 16.4. In case of inconsistency of textual content between language versions, the English version of the Website shall prevail.
-16.5. These Terms of Service are governed by the laws of Anjouan and the parties agree to the jurisdiction of the Anjouan courts and to the rules of arbitration in accordance with applicable law.
+16.5. These Terms of Service are governed by the laws applicable to the Website operator, and the parties agree to the jurisdiction of the courts and to the rules of arbitration in accordance with applicable law.
 17. Copyright
-17.1. We are the sole owners of the trademark 2UP and the 2UP logo. Any unauthorized use of the "2UP" trademark and the "2UP" logo may result in prosecution.
-17.2. www.2up.io is the uniform resource locator of the Website operated by the Company and no unauthorized use may be made of this URL on another website or digital platform without our prior written consent.
-17.3. The Company is the owner or the rightful licensee of the rights to the technology, software and business systems used within this Website.
-17.4. The contents and structure of 2up.io belong to the Company. The copyright in this Website including all text, graphics, code, files, and links belongs to the Company and the site may not be reproduced, transmitted or stored in whole or in part without our written consent. Your registration and use of our system do therefore not confer any rights whatsoever to the intellectual property contained in our system.
-17.5. Links to the Website and any of the pages therein may not be included in any other website without the prior written consent of the Company.
-17.6. You agree not to use any automatic or manual device to monitor the Website pages or any content therein.
-17.7. Any unauthorized use or reproduction may be prosecuted.
+17.1. Any trademarks or logos displayed on the Website are the property of the Website operator or its licensors. Unauthorized use may result in legal action.
+17.2. The domain name and URL of the Website are owned by the Website operator, and no unauthorized use may be made of them on another website or digital platform without prior written consent.
+17.3. The Website operator is the owner or rightful licensee of the technology, software, and systems used within the Website.
+17.4. All contents and structure of the Website, including text, graphics, code, files, and links, are protected by copyright and may not be reproduced, transmitted, or stored in whole or in part without prior written consent. Registration and use of the Website does not confer any rights to its intellectual property.
+17.5. Links to the Website and its pages may not be included in any other website without prior written consent.
+17.6. Users agree not to use any automatic or manual device to monitor the Website pages or content.
+17.7. Any unauthorized use or reproduction may result in legal action.
 18. Winnings
-18.1. All wagers and bets are placed in the particular crypto asset or fiat chosen and specified. Any values expressed in fiat currency are provided for indicative, reference purposes only.
-18.2. Your winnings will be paid out in the same asset or currency used to place the bet or wager for that particular game.
+18.1. All wagers or bets are placed in the selected crypto asset or fiat currency. Any values expressed in fiat currency are indicative and for reference purposes only.
+18.2. Winnings will be paid out in the same asset or currency used to place the bet or wager.
 19. Promotions: Terms & Conditions
-19.1. We may from time to time offer you bonuses and rewards, such as free spins, lossback, free bets, and extra money or wager assets to play games with (“Bonuses”). Any such Bonuses will have their own sets of terms and conditions, to which you will need to agree in order to participate. We reserve the right to modify any promotion concerning Bonuses or to discontinue or terminate the promotion at any time. Your eligibility to participate in the promotion and receive any Bonuses is determined by 2UP in its sole discretion.
-19.2. We reserve our right to remove any bonus from inactive accounts and accounts that we determine at our sole discretion to be intentionally exploiting a Bonus in bad faith.
-19.3. We reserve the right to cancel all Bonuses that have not been claimed within the shorter of any applicable claiming period or 30 days, and to cancel any Bonus at our sole discretion.
-19.4. Users are only eligible to receive winnings and Bonuses if they are not in breach of these Terms of Service.
-19.5. Participation in a promotion will be deemed to constitute full and unconditional acceptance of the Terms of Service which includes these Promotional Terms and any applicable Promotional Terms and that our decisions are final and binding in all respects.
-19.6. The Company reserves the right to terminate or cancel any current promotion without prior notification. Any user who infringes the Promotional Terms will be disqualified from any reward derived from said promotion.
-19.7. The Company has the rights to withhold any credits, bonuses, coupons, loyalty points or prizes awarded as part of a promotion at its own discretion.
-19.8. The Company has the right to inform users about current promotions or any updates by e-mail, SMS, chat, Whatsapp, social media, mobile phone, Internet browser notification or mobile application.
-19.9. The Company disclaims any liability for inaccurate information, whether caused by the Website, user's equipment used in a promotion, or by human or technical errors related to the submission of entries.
+19.1. From time to time, the Website may offer bonuses and rewards, such as free spins, lossback, free bets, or extra money or wager assets to play games (“Bonuses”). Any Bonuses will have their own terms and conditions, which must be accepted to participate. The Website operator reserves the right to modify, discontinue, or terminate any promotion at any time. Eligibility to participate and receive Bonuses is determined at the sole discretion of the Website operator.
+19.2. The Website operator reserves the right to remove Bonuses from inactive accounts or accounts found to be exploiting a Bonus in bad faith.
+19.3. All unclaimed Bonuses may be cancelled if not claimed within the specified claiming period or 30 days, whichever is shorter.
+19.4. Users are eligible for winnings and Bonuses only if they are not in breach of the Terms of Service.
+19.5. Participation in any promotion constitutes full and unconditional acceptance of the Terms of Service, including these Promotional Terms, and the Website operator’s decisions are final.
+19.6. The Website operator reserves the right to terminate or cancel any promotion without prior notification. Users violating Promotional Terms may be disqualified from any rewards.
+19.7. The Website operator may withhold any credits, bonuses, coupons, loyalty points, or prizes awarded as part of a promotion at its discretion.
+19.8. Users may be informed of promotions or updates via e-mail, SMS, chat, messaging apps, social media, mobile notifications, or the Website itself.
+19.9. The Website operator is not liable for inaccurate information caused by the Website, user devices, or human or technical errors related to entries.
 20. Bets Limit and Payout Caps
-20.1. All wagers placed on the 2UP platform are subject to maximum bet amounts and payout limits. These controls are designed to ensure fair play, manage risk, and maintain platform integrity.
-20.2. For 2UP Originals, the maximum bet per wager is one hundred thousand US dollars ($100,000 USD), and the maximum payout per wager is five hundred thousand US dollars ($500,000 USD). These limits are enforced automatically by the system and apply on a per-bet basis.
-20.3. For games provided by third-party suppliers—including slots, live casino, and other non-original games—the same maximum bet limit of $100,000 USD and maximum payout limit of $500,000 USD apply. These are enforced manually by the 2UP team. Limits may vary slightly depending on the provider, currency, or game mechanics, and 2UP reserves the right to adjust or reject wagers where necessary.
-20.4. Any values displayed in fiat currencies such as USD or EUR are shown for reference purposes only and do not indicate any conversion unless explicitly stated.
-20.5. If a player places a bet that exceeds the defined maximum bet or wins more than the applicable maximum payout, 2UP reserves the right to void or adjust the wager and withhold or reduce any winnings that surpass the stated limits. This applies whether or not the player was aware of the limits at the time the wager was placed.
-20.6. Any attempt to bypass betting limits—such as through multi-accounting, use of bots or automation, or other deceptive methods—may result in those bets being treated as a single transaction and subject to the applicable maximum payout rules. 2UP reserves the right to review such behaviour and take appropriate action, including voiding winnings, suspending accounts, or applying further restrictions.
-20.7. In select cases, bet and payout limits may be increased at the discretion of the 2UP operations team for verified VIP players. Such exceptions require written approval by the 2UP operations team. Eligibility for enhanced limits may involve additional verification steps, a signed agreement, or other specific conditions. VIP status alone does not guarantee eligibility for higher limits.
-20.8. 2UP reserves the right to update or amend these limits at any time without prior notice. All changes take effect upon publication on the Website. It is the player’s responsibility to remain informed of current limits.
-20.9. Breaches of this section may result in withheld winnings, account suspension, and further action in line with Section 8 (Account Closure) and Section 11 (Suspicious Activity).
+20.1. All wagers placed on the Website are subject to maximum bet amounts and payout limits. These controls are designed to ensure fair play, manage risk, and maintain platform integrity.
+20.2. For games developed or provided directly by the Website operator, maximum bet and payout limits may be set and enforced automatically by the system.
+20.3. For games provided by third-party suppliers—including slots, live casino, and other non-original games—the same maximum bet and payout limits apply, which may be enforced manually. Limits may vary depending on the provider, currency, or game mechanics, and the Website operator reserves the right to adjust or reject wagers where necessary.
+20.4. Any values displayed in fiat currencies such as USD or EUR are for reference purposes only and do not indicate any automatic conversion unless explicitly stated.
+20.5. If a user places a bet exceeding the defined maximum bet or wins more than the applicable maximum payout, the Website operator reserves the right to void or adjust the wager and withhold or reduce any winnings that surpass the stated limits, whether or not the user was aware of the limits at the time.
+20.6. Any attempt to bypass betting limits—such as through multi-accounting, use of bots or automation, or other deceptive methods—may result in those bets being treated as a single transaction and subject to applicable maximum payout rules. The Website operator reserves the right to review such behavior and take appropriate action, including voiding winnings, suspending accounts, or applying further restrictions.
+20.7. In select cases, bet and payout limits may be increased at the discretion of the Website operator for verified VIP or high-tier users. Such exceptions may require additional verification steps, signed agreements, or other specific conditions. VIP or high-tier status alone does not guarantee eligibility for higher limits.
+20.8. The Website operator reserves the right to update or amend these limits at any time without prior notice. All changes take effect upon publication on the Website. Users are responsible for remaining informed of current limits.
+20.9. Breaches of this section may result in withheld winnings, account suspension, and other actions in line with the Website’s policies on account closure and suspicious activity.
 21. Bet Resettlements
-21.1. 2UP reserves the right to resettle any bet that has been settled in error. This includes, but is not limited to, situations involving technical malfunction, human error, incorrect data feeds, or post-event changes to official results.
-21.2. If a bet is resettled, 2UP may adjust the player’s wallet balance to reflect the corrected outcome. This may include the removal of funds credited in error, or the return of funds wrongly deducted.
-21.3. If funds credited in error have already been withdrawn before the resettlement, the amount can be considered a debt owed to the Company. 2UP reserves the right to recover such funds by offsetting future deposits, cancelling pending withdrawals, limiting access to account features, or taking other appropriate recovery actions.
-21.4. All bet resettlements and related balance adjustments will be recorded in the player’s transaction history. Where applicable, 2UP may notify players by email.
-21.5. Bet resettlements apply to all betting products offered on the platform, including but not limited to sports, casino, and promotional markets.
-22. Game Malfunctions (Live Casino)
-22.1. In Live Casino games, any disruption to gameplay caused by dealer error, equipment malfunction, or studio failure may be classified as a game malfunction.
+21.1. The Website operator reserves the right to resettle any bet that has been settled in error. This includes, but is not limited to, situations involving technical malfunction, human error, incorrect data feeds, or post-event changes to official results.
+21.2. If a bet is resettled, the user’s account balance may be adjusted to reflect the corrected outcome, including the removal of funds credited in error or the return of funds wrongly deducted.
+21.3. If funds credited in error have already been withdrawn before resettlement, the amount may be considered a debt owed to the Website operator. The operator reserves the right to recover such funds by offsetting future deposits, cancelling pending withdrawals, limiting access to account features, or taking other appropriate recovery actions.
+21.4. All bet resettlements and related balance adjustments will be recorded in the user’s transaction history. Where applicable, the Website operator may notify users by email or platform messaging.
+21.5. Bet resettlements apply to all betting products offered on the Website, including but not limited to sports, casino, and promotional markets.
+22. Game Malfunctions (Live or Real-Time Games)
+22.1. In live or real-time games, any disruption to gameplay caused by dealer error, equipment malfunction, or technical failure may be classified as a game malfunction.
 22.2. Game malfunctions include, but are not limited to: roulette balls falling off the wheel, incorrect or exposed cards, broken shufflers, interrupted live video streams, or any outcome affected by physical or technical error.
-22.3. Where a game malfunction is confirmed, the affected round will be voided at the sole discretion of 2UP or the game provider. Stakes placed on the affected round will be refunded and any winnings paid in error will be removed.
-22.4. 2UP will not be held liable for losses caused by user-side issues, such as internet disconnection, hardware problems, or browser incompatibility. Refunds will only be issued when the fault originates from 2UP or the game provider.
-22.5. 2UP reserves the right to amend, void, or correct any payout or balance affected by a game malfunction. These actions may be taken at any time without prior notice and are final.
+22.3. Where a game malfunction is confirmed, the affected round may be voided at the sole discretion of the Website operator or the game provider. Stakes placed on the affected round will be refunded, and any winnings paid in error will be removed.
+22.4. The Website operator will not be held liable for losses caused by user-side issues, such as internet disconnection, hardware problems, or browser incompatibility. Refunds will only be issued when the fault originates from the Website operator or the game provider.
+22.5. The Website operator reserves the right to amend, void, or correct any payout or balance affected by a game malfunction. These actions may be taken at any time without prior notice and are final.

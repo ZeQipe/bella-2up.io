@@ -1,146 +1,155 @@
 1. General provisions
-1.1. 2up.io is owned and operated by Uponly N.V., (“ 2UP ”, “ we ”, “ us ”, or “ our ”) a Curacao company with registration number 163454, registered address: Zuikertuintjeweg Z/N (Zuikertuin Tower), Willemstad, Curacao. 2UP is licensed and regulated by the Government of the Autonomous Island of Anjouan, Union of Comoros and operates under License No. ALSI-042308001-FI1. We confirm the following Money Laundering and Terrorist Financing Prevention Policy (the "Policy").
+1.1. This online gaming service is owned and operated by a licensed company , duly registered in accordance with the laws of its jurisdiction. The Company is licensed and regulated by the relevant regulatory authority and operates under the applicable license. We confirm the following Money Laundering and Terrorist Financing Prevention Policy (the "Policy").
 1.2. The Company's main business is to provide online gaming (gambling) services.
-1.3. This Policy applies to the Company in cases when the Company's customers seek to establish a business relationship with the Company, as well as to implement ongoing monitoring of Company's customers' business behavior and is applied to ensure safety and transparency of both customers and Company's funds. Employees of the Company whose responsibilities are related to prevention of money laundering and terrorist financing or outsourced service providers are responsible for the implementation of this Policy.
-1.4. Company's customers - natural persons who in order to become a customer of the Company apply for the creation of an account on the Company's website https://2up.io (or associated Company's websites) or app (the "Customer").
-1.5. The Company will provide services in crypto and fiat currencies.
-1.6. The Company's Policy is designed to be compliant with applicable legislation, regulations and directives which include but not limited to, among others, and with the following:
+1.3. This Policy applies to the Company in cases when the Company's customers seek to establish a business relationship with the Company, as well as for the ongoing monitoring of customers' business behavior, to ensure the safety and transparency of both customers' and the Company's funds. Employees of the Company whose responsibilities are related to prevention of money laundering and terrorist financing, or outsourced service providers, are responsible for implementing this Policy.
+1.4. Customers of the Company are natural persons who, in order to become a customer, apply for the creation of an account on the Company's website or mobile application (the "Customer").
+1.5. The Company may provide services in both cryptocurrency and fiat currencies.
+1.6. The Company's Policy is designed to comply with applicable laws, regulations, and directives, including but not limited to:
 1.6.1. FATF Recommendations for International Standards on combating Money Laundering and the financing of terrorism and proliferation (AML/CFT).
 2. Risk-based approach
-2.1. The nature of the services provided by the Company poses a risk of money laundering and/or terrorist financing, therefore the Company's Customers also pose a risk to be involved in money laundering and/or terrorist financing activities or may use the Company as tool for money laundering and/or terrorist financing.
-2.2. Due to the risks indicated in point 2.1. of the Policy, the Company based on the identity of the Customer and Customer's risk characteristics specified in this Policy, classifies Customer to one of the following risk categories:
-2.2.1. Low Risk Customer;
-2.2.2. Medium Risk Customer;
-2.2.3. High Risk Customer;
-2.3. During the process of onboarding the Customer, the Company has to perform identification of the Customer and implement specific measures (checks) based on which the Customer is classified to one of the risk categories listed in points 2.2.1.-2.2.3. of this Policy. The risk factors due to which specific measures are implemented are as follows:
-2.3.1. The Customer is involved in adverse media, i.e., negative news in the media is linked to the Customer (related with terrorism, financial crimes, violence, narcotics, cybercrime, fraud, etc.);
-2.3.2. The Customer is considered as politically exposed person (PEP);
-2.3.3. The Customer is listed on a sanction's lists (restrictions imposed on individual);
-2.3.4. Geographical Customer's location is considered as a high-risk country and jurisdictions under Increased Monitoring as indicated by FATF.
-2.4. The Customers are classified by default as Low Risk Customer until the moment when the Company implements specific measures (perform checks) and classifies the Customer to each risk category. The Customers shall be classified as follows:
-2.4.1. Low Risk Customer – none of the factors listed in points 2.3.1.-2.3.4. of the Policy are applicable to the client;
-2.4.2. Medium Risk Customer – the Customer matches no more than one of the factors listed in 2.3.1.-2.3.4. of the Policy;
-2.4.3. High-Risk Customer – the Customer matches at least two of the factors listed in 2.3.1.- 2.3.4. of the Policy;
-2.5. The Company shall apply respective Enhanced Due Diligence (EDD) measures to Medium Risk Customers. In case the Company decides to not apply Enhanced Due Diligence (EDD) measures to Medium Risk Customers, the Company will notify the Customer regarding decision not to establish business relationship.
-2.6. The Company does not establish a business relationship with the Customer if the Customer is classified as a High-Risk Customer.
-3. Identification of the Customer. Establishment of business relationship
-3.1. The identity of the Customer (beneficial owner) in the Company is established only remotely. Once the Customer has been identified, the identity of the beneficial owner shall be deemed to be identified as well.
-3.2. By signing up and applying for the account opening in the Company, the Customer fills-in online application by indicating his/her personal data as follows:
-3.2.1. Full name;
-3.2.2. Date of birth;
-3.2.3. Full address;
-3.2.4. Gender;
-3.2.5. Contact details (phone number and email address).
-3.3. For Customers identification purposes, the Company requests from Customers to upload and provide proof of identity documents together with address proof documentation to verify their account opened with the Company when the following conditions are met:
-3.3.1. When Customer deposits any amount of funds in his/her account opened with the Company;
-3.3.2. When Customer proposes to withdraw funds from the account opened with the Company.
-3.4. Additionally, the Customer needs to provide a selfie holding a passport or ID.
-3.5. The Company only considers provided documentation from the Customer suitable if scanned copies and/or good quality photos are provided to the Company.
-3.6. Uploaded and provided proof of identity and address proof documents are verified and full name is compared, if full name provided during sign-up matches name of the provided proof of identity document the identity of the Customer is verified.
-3.7. The following identity proof documents are acceptable for verifying identity and address of the Customer:
-3.7.1. Copy of national ID card, passport or driving license;
-3.7.2. Copy of utility bill (not older than 3 months);
-3.7.3. Copy of bank statement (not older than 3 months);
-3.7.4. Any other proof document which is requested by the Company on an individual case.
-3.8. In cases when the Company receives proof of identity and address proof documents from Customers and information/details in the provided identity and address proof documents are different from details in the provided filled online application form in the sign-up process – Customer account opened with the Company is closed and business relationship with the Customer is terminated. Also, in cases when the Company receives filled online application and personal proof of identity documents of the Customer and determines that the Customer is underaged (under age that gambling or gaming activities are legal under the law or jurisdiction that applies to Customer) and/or is prohibited to participate in gambling activities (listed on register of persons restricted from participation in gambling) the Company immediately notice Customer regarding decision not to establish business relationship. Respective record is made in the register of terminated business relationship.
-3.9. Verification/re-verification is required in the following situations:
-3.9.1. When Customer deposit or request to withdraw above a nominated threshold or more. This can be in one withdrawal, or cumulatively from the time of your first withdrawal. Until the verification is complete the withdrawal or deposit request will be on hold.
-3.9.2. If the address of Customer's first deposit method does not match the address Customer used to register your account.
-3.9.3. If there is a change in the pattern of Customer's deposits or withdrawals.
-3.9.4. When a name matches, or is similar to that of someone with a history of criminal activity.
-3.10. Further, when Customer deposit or request to withdraw a nominated threshold or more, the Customer needs to declare and submit evidence of his source of wealth (SOW). Until the verification is complete the withdrawal or deposit request will be on hold.
-3.10.1. Examples of SOW include the following:
-3.10.1.1. Ownership of business;
-3.10.1.2. Employment;
-3.10.1.3. Inheritance;
-3.10.1.4. Investment;
-3.10.1.5. Family.
-3.11. It is critical that the origin and legitimacy of that wealth is clearly understood. If this is not possible an employee may ask for additional evidence and/or information.
-3.12. The account will be frozen if the same Customer deposits either this amount at once or by multiple transactions. An automatic email will be sent to the particular customer or user guiding him through the particular procedure.
-3.13. In order to fast track the process, the Customer can upload or email the required documents to the payment team in advance of any request. Account verification will vary according to every individual circumstance. It can take as long as a few days or as little as a few minutes.
-3.14. The Company requests to be provided with suitable documents once again and until provided cannot verify the Customer's identity in cases as follows:
-3.14.1. The Customer did not provide any of required documents confirming his identity;
-3.14.2. The Customer did not provide all required documents or provided documentation was incorrect/unrelated with the data indicated in online application;
-3.14.3. The documents were not provided in conformity to points 3.4. and 3.6. of this Policy.
-3.15. All data and documents of the Customer collected during stage of the Customer's identification indicated in section 3 of this Policy shall be recorded and stored in accordance to point 9.3. of this Policy.
-4. Risk-based evaluation of the Customer
-4.1. Once the Customer has been identified in accordance to the procedure indicated in point 3.2. of this Policy, the Company shall apply risk-based approach.
-4.2. The Company perform the Customer's risk-based evaluation in accordance to the personal data of the Customer indicated in the filled online application and provided documents and implement specific measures (perform checks) in order to find out if the Customer meets the risk factors in points 2.3.1.-2.3.4. of the Policy.
-4.3. Risk-based evaluation of the Customer is performed by using publicly available information/tools and other reliable and independent sources or service providers. The Company shall use publicly available sources as follows: www.google.com, http://www.sanctionssearch.ofac.treas.gov, http://www.dilisense.com/ and other alternative websites or databases from services providers. Key words as bribery, laundering, fraud etc. Shall be used during checks of the Customer.
-4.4. All data of the Customer collected during stage of the Customer's risk-based evaluation indicated in section 4 of this Policy shall be recorded and stored in accordance to point 9.3. of this Policy.
-4.5. In case none of the risk factors applied to the Customer – meaning that the Customer is classified as the Low-Risk Customer – the Company decides to establish business relationship with the Customer. The decision to establish a business relationship is expressed by making a record in the Company's register of establishment of a business relationship with Customers. Following the decision to establish a relationship with the Customer, the Company while providing services continues to perform ongoing due diligence of the Customer, periodic reviews of the relevance of the data and notices the Supervisory authority about unusual/suspicious activity.
-5. Enhanced Due Diligence of the Customer
-5.1. In cases when results of risk-based evaluation indicates that no more than one the risk factor applies to the Customer – meaning Customer was classified as Medium Risk Customer – the Company shall perform Enhanced Due Diligence (EDD) of the Customer. The Company is entitled to adopt decision not to perform Enhanced Due Diligence (EDD) of the Customer as indicated in point 2.5. of this Policy. In cases when at least two of the factors listed in 2.3.1.- 2.3.4. of the Policy apply to the Customer – meaning Customer was classified as High-Risk Customer – the Company notice Customer regarding decision not to establish business relationship. Respective record shall be made in the register of terminated business relationship.
-5.2. By performing Enhanced Due Diligence (EDD) of the Customer, the Company implements measures to eliminate risk of money laundering and/or terrorist financing as follows:
-5.2.1. obtaining additional information/explanation and/or documents from the Customer;
-5.2.2. obtaining the approval of senior manager of the Company for establishing the business relationship;
-5.2.3. obtaining information and/or documents on the source of funds and source of wealth of the customer;
-5.2.4. any other data/information that employees of the Company considers relevant to eliminate or mitigate the risk.
-5.3. If the Customer avoids to provide above mentioned explanations/information and/or documents or provided explanations/information and/or documents do not allow to mitigate the risk of money laundering and/or terrorist financing, the Company notice Customer regarding decision not to establish business relationship.
-5.4. In cases when Customer provides requested information/explanation and/or documents and provided information/explanation and/or documents allows to eliminate or mitigate the risk of money laundering and/or terrorist financing, the Company decides whether to establish or not business relationship with the Customer.
-5.5. The Company's decisions to or not to establish business relationship after performance of Enhanced Due Diligence (EDD) shall be expressed by making a record in the Company's register of establishment of a business relationship with Customers or register of terminated business relationship. Following the decision to establish a relationship with the Customer, the Company while providing services continues to perform ongoing due diligence of the Customer, periodic reviews of the relevance of the data and notices the Supervisory authority about unusual/suspicious activity.
-5.6. 2UP will not onboard and/or will block or suspend customers who:
-Do not provide the identification information requested by us;
+2.1. The nature of the services provided by the Company carries inherent risks of money laundering and/or terrorist financing. Therefore, Customers may pose a risk of being involved in such activities or may attempt to use the Company as a tool for money laundering or terrorist financing.
+2.2. Based on the Customer's identity and risk characteristics, the Company classifies Customers into one of the following risk categories:
+2.2.1. Low Risk Customer
+2.2.2. Medium Risk Customer
+2.2.3. High Risk Customer
+2.3. During the onboarding process, the Company identifies the Customer and applies specific measures (checks) to determine the appropriate risk category. Risk factors considered include:
+2.3.1. The Customer is involved in adverse media, i.e., negative news linked to the Customer (such as terrorism, financial crimes, violence, narcotics, cybercrime, fraud, etc.)
+2.3.2. The Customer is considered a politically exposed person (PEP)
+2.3.3. The Customer is listed on sanctions lists
+2.3.4. The Customer's geographical location is considered high-risk or subject to increased monitoring according to FATF guidelines
+2.4. By default, all Customers are classified as Low Risk until specific measures (checks) are performed. After assessment, Customers are reclassified into the appropriate risk category as outlined above.
+2.4.1. Low Risk Customer – none of the factors listed in points 2.3.1.-2.3.4. apply to the Customer.
+2.4.2. Medium Risk Customer – the Customer matches no more than one of the factors listed in points 2.3.1.-2.3.4.
+2.4.3. High-Risk Customer – the Customer matches at least two of the factors listed in points 2.3.1.-2.3.4.
+2.5. The Company applies Enhanced Due Diligence (EDD) measures to Medium Risk Customers. If the Company decides not to apply EDD measures to a Medium Risk Customer, the Customer will be notified of the decision not to establish a business relationship.
+2.6. The Company does not establish a business relationship with Customers classified as High-Risk.
+3. Identification of the Customer and Establishment of Business Relationship
+3.1. The identity of the Customer (beneficial owner) is established remotely. Once the Customer is identified, the beneficial owner's identity is also considered verified.
+3.2. During account registration, the Customer completes an online application providing personal data, including:
+3.2.1. Full name
+3.2.2. Date of birth
+3.2.3. Full address
+3.2.4. Gender
+3.2.5. Contact details (phone number and email address)
+3.3. To verify the Customer’s identity, the Company may request submission of identity and address proof documents when:
+3.3.1. The Customer deposits any amount of funds
+3.3.2. The Customer requests to withdraw funds
+3.4. The Customer may also be required to provide a selfie holding their passport or ID.
+3.5. Only high-quality scans or photos of documents are accepted.
+3.6. Submitted documents are verified by comparing the full name with the one provided during registration.
+3.7. Acceptable documents include:
+3.7.1. National ID card, passport, or driving license
+3.7.2. Utility bill (not older than 3 months)
+3.7.3. Bank statement (not older than 3 months)
+3.7.4. Other documents requested by the Company on a case-by-case basis
+3.8. If submitted documents do not match the information in the registration form, the account will be closed and the business relationship terminated. If the Customer is underage or otherwise prohibited from participating in gambling, the Company will notify them and terminate the relationship.
+3.9. Re-verification is required if:
+3.9.1. Deposits or withdrawals exceed a certain threshold
+3.9.2. The address of the deposit method does not match the registration address
+3.9.3. There are unusual patterns in deposits or withdrawals
+3.9.4. The Customer’s name matches or is similar to someone with a criminal history
+3.10. For transactions above a certain threshold, the Customer must declare and provide evidence of their source of wealth (SOW), such as:
+3.10.1. Business ownership
+3.10.2. Employment
+3.10.3. Inheritance
+3.10.4. Investments
+3.10.5. Family funds
+3.11. The origin and legitimacy of the Customer’s wealth must be clearly understood. Additional evidence may be requested if necessary.
+3.12. Accounts may be frozen if large deposits are made at once or in multiple transactions. The Customer will receive guidance by email.
+3.13. Customers may upload or email required documents to speed up verification. Verification timelines vary from a few minutes to several days depending on the circumstances.
+3.14. The Company may request the Customer to provide suitable documents again and cannot verify the Customer's identity until documents are provided in cases where:
+3.14.1. The Customer did not provide any required identity documents;
+3.14.2. The Customer provided incomplete, incorrect, or unrelated documentation;
+3.14.3. Documents were not provided in compliance with points 3.4. and 3.6. of this Policy.
+3.15. All data and documents collected during Customer identification shall be recorded and stored in accordance with point 9.3. of this Policy.
+4. Risk-Based Evaluation of the Customer
+4.1. After identification in accordance with point 3.2., the Company applies a risk-based approach.
+4.2. The Company performs a risk-based evaluation using the Customer’s personal data from the application and submitted documents to determine whether the Customer meets any risk factors in points 2.3.1.-2.3.4.
+4.3. Risk-based evaluation is conducted using publicly available information and other reliable sources or service providers, including but not limited to:
+www.google.com
+http://www.sanctionssearch.ofac.treas.gov
+http://www.dilisense.com/
+Other relevant websites or databases
+Keywords such as bribery, laundering, fraud, etc., are used during checks.
+4.4. All data collected during risk-based evaluation shall be recorded and stored in accordance with point 9.3.
+4.5. If no risk factors apply (Low-Risk Customer), the Company establishes a business relationship, recorded in the Company’s register. Ongoing due diligence, periodic reviews, and reporting of unusual/suspicious activity continue.
+5. Enhanced Due Diligence (EDD)
+5.1. If a Customer has no more than one risk factor (Medium Risk Customer), the Company performs Enhanced Due Diligence (EDD). The Company may decide not to perform EDD as per point 2.5. If at least two risk factors apply (High-Risk Customer), the Company notifies the Customer that a business relationship will not be established, and the record is stored in the terminated business relationship register.
+5.2. EDD measures to mitigate money laundering and terrorist financing risks include:
+5.2.1. Obtaining additional information, explanations, or documents from the Customer;
+5.2.2. Approval from a senior manager for establishing the business relationship;
+5.2.3. Information and documents regarding the Customer’s source of funds and source of wealth;
+5.2.4. Any other data considered relevant to mitigate the risk.
+5.3. If the Customer refuses to provide requested information or documents, or if provided information does not mitigate risk, the Company notifies the Customer that a business relationship will not be established.
+5.4. If the Customer provides satisfactory information/documents, the Company decides whether to establish a business relationship.
+5.5. Decisions after EDD are recorded in the register of established or terminated business relationships. Ongoing due diligence, periodic reviews, and reporting of unusual/suspicious activity continue.
+5.6. The Company will not onboard, or will block/suspend Customers who:
+Do not provide requested identification;
 Provide fake identification documents;
-Adopt measures to conceal their true location;
-Are from restricted or prohibited jurisdictions;
-Are subjected to United States, European Union, or other global sanctions or watch lists;
-Are addicted to gambling or have mental health issues; or
-Deposit funds which originate from exchanges in restricted jurisdictions.
-In addition, we reserve the right to block and suspend players for any other reason at its sole discretion.
-5.7. All data of the Customer collected during stage of Enhanced Due Diligence (EDD) of the Customer indicated in section 5 of this Policy shall be recorded and stored in accordance to point 9.3. of this Policy.
+Attempt to conceal their true location;
+Are from restricted/prohibited jurisdictions;
+Are subject to US, EU, or other sanctions/watch lists;
+Are addicted to gambling or have mental health issues;
+Deposit funds originating from exchanges in restricted jurisdictions.
+The Company reserves the right to block or suspend Customers for any other reason at its sole discretion.
+5.7. All data collected during EDD shall be recorded and stored in accordance with point 9.3.
 6. Ongoing Due Diligence
-6.1. While providing services, the Company shall continue to perform ongoing monitoring of the Customer, periodic reviews of the relevance of the data and informs the supervisory authority about possible suspicious activity if needed.
-6.2. The Company must ensure continuous monitoring of Customers transactions and behavior to identify unusual operations or activities. Unusual indications may be related to the deposits made into Customer's account opened with the Company, abuse of bonuses or other promotions, using unfair external factors or influences, taking unfair advantage, opening any duplicate accounts with the Company, undertaking fraudulent practice or criminal activity, etc.
-6.3. Designated person from the Company or MLRO or third party service provider shall monitoring Customers' transactions and apply measures, included but not limited to the following:
-6.3.1. Screening of wallet addresses as they might be linked to criminal activities or owned by people engaged in criminal activities;
-6.3.2. Screening and detection of unusual operations on the wallet addresses (extremely low amount transactions with extremely great volume of transactions);
-6.3.3. Screening of different assets on blockchain and their interaction with specific wallet addresses;
-6.3.4. Tracing funds as they have been transferred across multiple tokens or chains, etc.
-6.4. The Company shall ensure that the data, documents and information about the Customer are constantly updated (at least once every 24 months). In cases Enhanced Due Diligence (EDD) applied to the Customer during onboarding stage, data, documents and information shall be updated at least once every 12 months.
-6.5. If the Customer avoids to submit updated documents, information and other data required by the Company within the reasonable time, the Company might terminate business relationship with the Customer. Even if the Customer provides requested information, decision to terminate or continue business relationships with the Customer is at the discretion of the Company and shall be made in accordance with any potential risk factors indicated in point 2.3.1.-2.3.4. of this Policy. Respective decision of the Company shall be expressed by making a record in the Company's register of termination of a business relationship with Customers or register of continued business relationship with Customers.
-6.6. All data of the Customer collected during stage of Ongoing Due Diligence of the Customer indicated in section 6 of this Policy shall be recorded and stored in accordance to point 9.3. of this Policy
-7. Recognition, documentation and reporting of unusual/suspicious transactions
-7.1. An unusual transaction shall be considered a transaction which is inconsistent with the Customer's business behavior or personal activities.
-7.2. The Company shall pay special attention to all complex, unusually large transactions and all unusual patterns of transactions, which have no apparent economic or visible lawful purposes.
-7.3. To guard against money laundering and/or terrorist financing the Company shall record any suspicious/unusual transaction in writing by making a record in the Company's register of unusual/suspicious transactions of the Customer. Such findings shall be kept for at least five years and shall be available for respective supervisory authorities.
-7.4. In case an unusual/suspicious transaction was detected and recorded, the senior manager shall be internally reported regarding this matter within undue delay, in the manner approved by the Company. Together with an internal unusual/suspicious report senior manager shall be provided with all collected data related to the Customer being reported.
-7.5. In cases when senior manager evaluated the nature, risks and other relevant circumstances of the transaction and authorized received report, external report shall be prepared and submitted to Supervisory authority without undue delay.
-7.6. If the unusual transaction is not authorized by senior manager to be incorporated and reported to Supervisory authority, all documents relevant to the transaction including reasons for nonauthorization shall be documented, undersigned by senior manager and kept for internal records in accordance to point 9.3. of this Policy.
-7.7. The Company shall appoint a Money Laundering Reporting Officer (the "MLRO") who as the shall be responsible for the filing needed reports, pertaining a risk analysis on Money Laundering with the designated authorities.
-7.8. Additionally, to the mentioned in 7.7. MLRO duties includes the following:
-7.8.1. Ensure that procedures are in place to ensure compliance with all applicable legislation, regulations and all associated guidelines, codes of practice and Company policies and procedures;
-7.8.2. Report to the Managers and inform senior management the result(s) of any remedial action taken;
-7.8.3. Attend regular compliance meetings with selected senior management, prepare an agenda therefor, and to take, circulate and maintain the minutes thereof;
-7.8.4. Update and maintain any compliance‐related policies, including this Policy;
-7.8.5. Plan and co‐ordinate training activity for all departments to include key regulatory areas including the significance of regulatory compliance as a whole, ID and age verification, fraud, anti‐money laundering, and problem gambling;
-7.8.6. Be the point of contact with the involved regulator(s);
-7.8.7. Investigate and report any breaches of the applicable laws, regulations, guidelines, codes of practice and company policies and procedures to senior management and, as appropriate, to the regulator;
-7.8.8. Plan and co‐ordinate training activity for all departments to include key regulatory areas including the significance of regulatory compliance as a whole, ID and age verification, fraud, anti‐money laundering, and problem gambling;
-7.8.9. Consult with staff representatives and attend staff meetings on compliance topics;
-7.8.10. Manage regular reviews of Company's internal control system to ensure that it;
-7.8.11. Accurately reflects the current operation of the business – and report any discrepancies/oddities to relevant senior management.
-7.8.12. Looking after records of high-risk clients and report suspicious activities, if any;
+6.1. While providing services, the Company shall perform ongoing monitoring of the Customer, conduct periodic reviews of data relevance, and inform the supervisory authority of possible suspicious activity if necessary.
+6.2. Continuous monitoring of Customer transactions and behavior must be ensured to detect unusual activities. Examples of unusual activity include:
+Abnormal deposits into the Customer’s account;
+Misuse of bonuses or promotions;
+Use of unfair external influences;
+Opening duplicate accounts;
+Fraudulent or criminal activity.
+6.3. Designated personnel, the MLRO, or third-party service providers shall monitor Customer transactions and apply measures including, but not limited to:
+6.3.1. Screening wallet addresses linked to criminal activity;
+6.3.2. Detecting unusual operations on wallet addresses (e.g., extremely small amounts with high volume);
+6.3.3. Screening assets on blockchains and their interaction with specific addresses;
+6.3.4. Tracing funds transferred across multiple tokens or chains.
+6.4. Customer data, documents, and information must be updated at least every 24 months. If EDD was applied during onboarding, updates must occur at least every 12 months.
+6.5. If the Customer fails to provide updated data/documents within a reasonable time, the Company may terminate the business relationship. Even if data is provided, the decision to continue or terminate the relationship remains at the Company’s discretion, based on potential risk factors (points 2.3.1.–2.3.4.). Decisions are recorded in the Company’s register of terminated or continued business relationships.
+6.6. All data collected during ongoing due diligence shall be recorded and stored in accordance with point 9.3.
+7. Recognition, Documentation and Reporting of Unusual/Suspicious Transactions
+7.1. An unusual transaction is one that is inconsistent with the Customer’s usual business or personal activity.
+7.2. Special attention shall be paid to complex, unusually large, or irregular transactions with no apparent lawful purpose.
+7.3. All unusual/suspicious transactions must be recorded in the register of unusual/suspicious transactions and kept for at least five years for review by supervisory authorities.
+7.4. Detected unusual/suspicious transactions must be reported internally to a senior manager without undue delay, along with all relevant Customer data.
+7.5. After evaluation and authorization by the senior manager, an external report shall be submitted to the supervisory authority without undue delay.
+7.6. If a transaction is not authorized for external reporting, all related documentation, including reasons for non-authorization, must be signed by the senior manager and kept for internal records per point 9.3.
+7.7. The Company shall appoint a Money Laundering Reporting Officer (MLRO), responsible for filing reports and conducting risk analysis related to money laundering.
+7.8. MLRO duties include:
+7.8.1. Ensuring compliance with legislation, regulations, and Company policies;
+7.8.2. Reporting to management on remedial actions taken;
+7.8.3. Attending compliance meetings and maintaining minutes;
+7.8.4. Updating and maintaining compliance-related policies, including this Policy;
+7.8.5. Planning and coordinating training on regulatory compliance, ID verification, fraud, AML, and responsible gambling;
+7.8.6. Acting as the point of contact for regulators;
+7.8.7. Investigating and reporting breaches of laws, regulations, guidelines, and policies;
+7.8.8. Managing internal control reviews and reporting discrepancies;
+7.8.9. Maintaining records of high-risk clients and reporting suspicious activities;
+7.8.10. Assisting in implementing the AML program;
+7.8.11. Coordinating third-party inspections and addressing program deficiencies.7.8.12. Looking after records of high-risk clients and report suspicious activities, if any;
 7.8.13. Assisting the implementation of an AML program of an organization;
 7.8.14. Arranging inspections from third-party organizations and eliminating mistakes in the program, if any.
-8. Employees training
-8.1. The Company provides anti-money laundering/terrorism financing risk awareness training for employees. The Company intends to conduct trainings so frequently so Company's employees would be well familiarized with latest AML/KYC practices
-8.2. Regardless of who conduct the employees training (senior manager or external providers) employees shall be instructed about the following matters:
-8.2.1. Obligations under anti-money laundering/terrorism financing laws and FATF, CFATF recommendations;
-8.2.2. The consequences of not complying with anti-money laundering/terrorism financing requirements;
-8.2.3. The types and patterns of money laundering and/or terrorism financing that the Company's business or organization might face and the consequences of these risks;
-8.2.4. The Company's compliance to anti money-laundering/terrorism financing laws, including the Company's processes and procedures to identify, manage and mitigate risks related to money laundering/terrorism financing.
-8.3. Anti-money laundering/terrorism financing risk awareness training programs to all employees, director(s) of the Company shall be conducted by senior manager. Aforementioned programs to senior manager shall be conducted by external providers.
-8.4. Types of training, detailed training programs and its frequency shall be specified in the internal policies of the Company.
-8.5. The Company ensures that Customers' identifications of their identity or monitoring of their operations will be conducted by professional, well trained Company's employees.
-9.0 Storage of registers and Customer's data
-9.1. The Company shall maintain and store registers as follows:
-9.1.1. Register of establishment of business transactions;
-9.1.2. Register of continued business transactions;
-9.1.3. Register of terminated business transactions;
+8. Employees Training
+8.1. The Company provides anti-money laundering (AML) and counter-terrorism financing (CTF) risk awareness training for employees. Trainings are conducted regularly to ensure all employees are familiar with the latest AML/KYC practices.
+8.2. Regardless of whether training is conducted by senior management or external providers, employees shall be instructed on:
+8.2.1. Obligations under AML/CTF laws and FATF/CFATF recommendations;
+8.2.2. Consequences of non-compliance with AML/CTF requirements;
+8.2.3. Types and patterns of money laundering and/or terrorism financing relevant to the Company, and associated risks;
+8.2.4. Company procedures for identifying, managing, and mitigating AML/CTF risks.
+8.3. AML/CTF training for all employees and directors is conducted by senior management, while senior management themselves receive training from external providers.
+8.4. Training types, detailed programs, and frequency shall be defined in the Company’s internal policies.
+8.5. The Company ensures that Customer identification and transaction monitoring are performed by professionally trained employees.
+9. Storage of Registers and Customer Data
+9.1. The Company shall maintain the following registers:
+9.1.1. Register of established business relationships;
+9.1.2. Register of continued business relationships;
+9.1.3. Register of terminated business relationships;
 9.1.4. Register of unusual/suspicious transactions.
-9.2. The registers referred to in point 9.1. of the Policy shall be stored in electronic format for 5 years from the date of termination of business relations with the Customer.
-9.3. All information/explanation, data and documents related with the Customer shall be stored in electronic format for 5 years from the date of termination of business relations with the Customer.
-9.4. The Company shall keep secure all data given by the Customer shall not sold or give to anyone else. The data may only be shared with the AML authority of the affected state if forced by law, or to prevent money laundering.
-10. Final provisions
-10.1. This Policy is approved by the Company's Managers. The Policy shall enter into force on the date of its approval, unless otherwise specified. The Company's Policy is reviewed regularly, but at least once a year and in case any adjustments are required, the new version of the Company's Policy takes effect from the date of its approval.
+9.2. Registers shall be stored in electronic format for at least 5 years from the date of termination of the business relationship with the Customer.
+9.3. All Customer information, documents, and explanations shall be stored electronically for at least 5 years from the date of termination of the business relationship.
+9.4. All Customer data shall be securely stored and shall not be sold or disclosed to third parties, except when required by law or to prevent money laundering.
+10. Final Provisions
+10.1. This Policy is approved by the Company’s management and enters into force on the date of approval unless otherwise specified.
+10.2. The Policy shall be reviewed regularly, at least once a year, and any updates take effect from the date of their approval.
